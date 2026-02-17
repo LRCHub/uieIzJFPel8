@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オー・シャンゼリゼ",
+  "base_artist": "奇妙礼太郎トラベルスイング楽団",
+  "createdAt": "2026-02-17T14:35:17.293149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オー・シャンゼリゼ　(スウィート・ミックス)",
+      "artist": "Clémentine",
+      "has_synced": false,
+      "path": "select/01_オー・シャンゼリゼ_(スウィート・ミックス)_Clémentine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オー・シャンゼリゼ",
+      "artist": "奇妙礼太郎トラベルスイング楽団",
+      "has_synced": false,
+      "path": "select/pl_01_オー・シャンゼリゼ_奇妙礼太郎トラベルスイング楽団.txt"
+    }
+  ]
+}
